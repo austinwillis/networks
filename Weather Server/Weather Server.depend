@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1443557691 source:/home/austin/Documents/cs475/Weather Server/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<cstring>
+	<string>
+	<netdb.h>
+

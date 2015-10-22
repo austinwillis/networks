@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1444802537 source:/home/austin/Documents/cs475/simpleclient/main.cpp
+	<iostream>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<netdb.h>
+

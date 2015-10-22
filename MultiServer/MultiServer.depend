@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1444768801 source:/home/austin/Documents/cs475/MultiServer/main.cpp
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<strings.h>
+	<stdlib.h>
+	<string>
+	<pthread.h>
+
